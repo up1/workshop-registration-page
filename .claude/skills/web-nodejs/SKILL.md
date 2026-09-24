@@ -7,7 +7,7 @@ description: Develope web applications using Node.js and EJS templates and store
 1. Analyze the requirements for the web application from user's requirement both spec and html user interface mockups.
 2. Implement web application following project structure and technology stack to cover all required features and functionalities.
 3. Check user requirements and validate that all features are implemented correctly.
-4. Check web layout and user interface to ensure it matches the HTML mockups and @DESIGN.md specifications and provides a good user experience.
+4. Check web layout and user interface to ensure layout, theme, and styling match the HTML mockups and specifications and provide a good user experience.
 
 
 ## Technology Stack
