@@ -45,5 +45,4 @@ src
 - Regularly back up the SQLite database to prevent data loss.
 - Handle errors gracefully and provide meaningful error messages to users.
 - Keep dependencies up to date to benefit from security patches and new features.
-- Write unit tests for critical parts of the application to ensure reliability and facilitate future changes.
 - Document the code and project structure to make it easier for new developers to understand and contribute.  
